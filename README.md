@@ -1,6 +1,10 @@
-# AdobeXD to flutter
+# Adobe XD to flutter
 
-A new Flutter project.
+My first experience using the Adobe XD plugin to generate flutter screens
+
+## Adobe_xd Plugin 
+
+See https://github.com/AdobeXD/xd-to-flutter-plugin
 
 ## Screenshot
 

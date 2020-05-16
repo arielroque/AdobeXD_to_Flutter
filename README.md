@@ -1,16 +1,9 @@
-# xd_to_flutter
+# AdobeXD to flutter
 
 A new Flutter project.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![adobexd](https://user-images.githubusercontent.com/17733053/82106331-97230f80-96f6-11ea-8a41-cdab3a5b5b4d.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
